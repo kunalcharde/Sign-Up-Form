@@ -33,6 +33,7 @@ form{
 
 input{
   color: #fff;
+  outline: none;
   width: 100%;
   border: none;
   background: transparent;
